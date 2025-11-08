@@ -1,0 +1,9 @@
+api.vrchat.cloud
+files.vrchat.cloud
+file-variants.vrchat.cloud
+pipeline.vrchat.cloud
+vrchat.com
+vrchat.cloud
+vrcpm.vrchat.cloud
+vod-progressive.akamaized.net
+vrchat.net
