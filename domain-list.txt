@@ -7,3 +7,16 @@ vrchat.cloud
 vrcpm.vrchat.cloud
 vod-progressive.akamaized.net
 vrchat.net
+status.vrchat.com
+assets.vrchat.com
+creators.vrchat.com
+docs.vrchat.com
+wiki.vrchat.com
+vrchat.community
+vrchatassets.com
+vrcdn.live
+vrcdn.video
+vrcdn.cloud
+cdn.vrchat.com
+vrchat.cloudwww.quora.com
+vrcpm.vrchat.cloud
